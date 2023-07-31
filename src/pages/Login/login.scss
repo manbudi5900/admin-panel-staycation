@@ -1,0 +1,39 @@
+.content {
+    .left {
+
+    }
+    .right-card {
+        form {
+            padding-left: 100px;
+            padding-right: 100px;
+            .input-card {
+                color: "#7C838A";
+                font-family: "Poppins";
+                font-size: "20px";
+                font-style: "normal";
+                font-weight: "500";
+                line-height: "normal";
+                width: 600px;
+                height: 65px;
+                margin-bottom: 71px;
+                input {
+                    background-color: rgba(176, 186, 195, 0.40);
+                    border-radius: 20px;
+                }
+                input:focus {
+                    background-color: rgba(237, 241, 244, 0.4);
+                }
+            }
+            .card-login {
+                
+                button {
+                    border-radius: 10px;
+                    background: #F9ED32;
+                    color: black;
+                    width: 600px;
+                    height: 60px;
+                }
+            }
+        }
+    }
+}
